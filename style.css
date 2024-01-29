@@ -260,7 +260,7 @@ a.freepik {
     width: fit-content;
     display: block;
     position: absolute;
-    color: #4d4d4d;
+    color: #353434;
     font-size: 10px;
     bottom: 10px;
     right: 10px;
@@ -440,5 +440,10 @@ a.freepik {
         font-size: 16px;
         line-height: 28px;
         box-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+    }
+    a.copyright {
+        font-size: 12px;
+        left: 10px;
+        transform: translateX(0);
     }
 }
