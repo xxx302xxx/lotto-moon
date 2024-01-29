@@ -1,2 +1,3 @@
 user-agent : *
 Allow : /
+Sitemap: https://xxx302xxx.github.io/lotto-moon//sitemap.xml
